@@ -67,9 +67,13 @@ Now that we have the database in postgreSQL, we need to start making queries and
 * Following the previous procedure, we used the five queries located in **'codigo_sql.sql'** to export the five different datasets used to plot the figures:
     
     :elephant: FIRST QUESTION (QUERY) generated the dataset: 'Profit_each_year.csv'
+
     :elephant: SECOND QUESTION (QUERY) generated the dataset: 'top_ten_customers.csv'
+
     :elephant: THIRD QUESTION (QUERY) generated the dataset: 'State_profit_map.csv'
+
     :elephant: FOURTH QUESTION (QUERY) generated the dataset: 'region_profit_pie.csv'
+    
     :elephant: FIFTH QUESTION (QUERY) generated the dataset: 'Profit_every_month.csv'
 
 
