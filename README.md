@@ -48,11 +48,16 @@
 
     **Example:** *COPY table_name  FROM 'location + file_name' DELIMITER ',' CSV HEADER;*
 
-    * table name – the name of the table you want to import data into.
-    * ‘location + file_name’ – the full path to the file you’re importing data from.
-    * DELIMITER ‘,’ – specifies the delimiter we use as the comma symbol.
-    * CSV – specifies the format of a file we’re importing data from.
-    * HEADER – specifies that the target file contains a header row that should be skipped during the import process.
+    :fallen_leaf: table name – the name of the table you want to import data into.
+
+    :fallen_leaf: ‘location + file_name’ – the full path to the file you’re importing data 
+    from.
+
+    :fallen_leaf: DELIMITER ‘,’ – specifies the delimiter we use as the comma symbol.
+
+    :fallen_leaf: CSV – specifies the format of a file we’re importing data from.
+
+    :fallen_leaf: HEADER – specifies that the target file contains a header row that should be skipped during the import process.
 
 **NOTE:exclamation::** the code for COPY command is located in file **'codigo_sql.sql'** inside **'data'** folder. (line 29)
 
@@ -73,7 +78,7 @@ Now that we have the database in postgreSQL, we need to start making queries and
     :elephant: THIRD QUESTION (QUERY) generated the dataset: 'State_profit_map.csv'
 
     :elephant: FOURTH QUESTION (QUERY) generated the dataset: 'region_profit_pie.csv'
-    
+
     :elephant: FIFTH QUESTION (QUERY) generated the dataset: 'Profit_every_month.csv'
 
 
