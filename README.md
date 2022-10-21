@@ -1,4 +1,4 @@
-# DATA VISUALIZATION PROJECT 
+# :computer: DATA VISUALIZATION PROJECT 
 
 ## Description
 * This projet was created to generate a simple code infraestructure to effectively visualize and analyze data stored in an excel or csv file. 
